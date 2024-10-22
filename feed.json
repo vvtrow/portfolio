@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portfolio",
+    "description": "",
+    "home_page_url": "https://vvtrow.github.io/portfolio",
+    "feed_url": "https://vvtrow.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Daniel Trow"
+    },
+    "items": [
+    ]
+}
